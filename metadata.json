@@ -1,0 +1,6 @@
+{
+  "name": "Boat Autopilot Controller",
+  "description": "Interactive boat autopilot simulator, control station, and complete Android Jetpack Compose Kotlin codebase visualizer.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
